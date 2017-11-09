@@ -12,3 +12,8 @@ Ao determinar as melhores proporçoes de um grid, o designer pode depender intei
 O Grid de um designer organiza um conteudo especifico em relaçao ao espaco que ira ocupar.
 O Grid permite ao designer criar diferentes layouts contendo uma variedade de elementos sem fugir da estrutura predeterminada.
 O grid nao limita o layout.
+
+O que sao Wireframes?
+
+E um desenho basico, uma planta baixa ou um esqueleto, que demonstra de forma direta a arquitetura do seu site, sistema ou aplicativo.
+E como a interface final sera de acordo com as especificaçoes relatadas.
