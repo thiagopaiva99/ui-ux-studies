@@ -4,3 +4,11 @@ E um esboço ou rascunho que mostra a estrutura fisica de uma pagina de um jorna
 O Layout engloba elementos como texto, graficos, imagens e a forma como eles se encontram em determinado espaço.
 O layout grafico pressupoe o trabalho de um designer grafico, que vai trabalhar no formato e numeros de pagina e suas margens, numeros de colunas de texto e otros aspectos relevantes.
 O layout ou "leiaute" em portugues significa plano, arranjo, esquema, design ou projeto.
+
+O que sao Grids?
+
+O grid e um sistema de regras estabelecidas de divisao de espaço, onde se incluem quadrados, duplo quadrado, a divisao aurea.
+Ao determinar as melhores proporçoes de um grid, o designer pode depender inteiramente de sua intuiçao.
+O Grid de um designer organiza um conteudo especifico em relaçao ao espaco que ira ocupar.
+O Grid permite ao designer criar diferentes layouts contendo uma variedade de elementos sem fugir da estrutura predeterminada.
+O grid nao limita o layout.
